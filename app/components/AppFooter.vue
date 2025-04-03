@@ -30,7 +30,7 @@ const isDark = computed({
           </template>
         </ClientOnly>
         <UButton
-          to="https://git.new/draw"
+          to="https://github.com/dEagleProg/dEagleDraw"
           color="neutral"
           variant="ghost"
           icon="i-simple-icons-github"
