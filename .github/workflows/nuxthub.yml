@@ -37,4 +37,4 @@ jobs:
         uses: nuxt-hub/action@v1
         id: deploy
         with:
-          project-key: d-eagle-draw-04hj
+          project-key: deagledraw-p5e9
